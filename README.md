@@ -1,2 +1,2 @@
-Click --->  https://vusales.github.io/jokes/
+Click --->  https://vusales.github.io/joke/
 # joke
