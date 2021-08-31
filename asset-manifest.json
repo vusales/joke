@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/joke/static/css/main.5e87be89.chunk.css",
+    "main.js": "/joke/static/js/main.9fc9400a.chunk.js",
+    "main.js.map": "/joke/static/js/main.9fc9400a.chunk.js.map",
+    "runtime-main.js": "/joke/static/js/runtime-main.3b3368fa.js",
+    "runtime-main.js.map": "/joke/static/js/runtime-main.3b3368fa.js.map",
+    "static/js/2.4f81eb2f.chunk.js": "/joke/static/js/2.4f81eb2f.chunk.js",
+    "static/js/2.4f81eb2f.chunk.js.map": "/joke/static/js/2.4f81eb2f.chunk.js.map",
+    "static/js/3.88376701.chunk.js": "/joke/static/js/3.88376701.chunk.js",
+    "static/js/3.88376701.chunk.js.map": "/joke/static/js/3.88376701.chunk.js.map",
+    "index.html": "/joke/index.html",
+    "static/css/main.5e87be89.chunk.css.map": "/joke/static/css/main.5e87be89.chunk.css.map",
+    "static/js/2.4f81eb2f.chunk.js.LICENSE.txt": "/joke/static/js/2.4f81eb2f.chunk.js.LICENSE.txt",
+    "static/media/positive.2e397a04.png": "/joke/static/media/positive.2e397a04.png",
+    "static/media/smile.c0d04041.png": "/joke/static/media/smile.c0d04041.png",
+    "static/media/smile1.63b13b4d.png": "/joke/static/media/smile1.63b13b4d.png",
+    "static/media/smilecon.802e4e1c.png": "/joke/static/media/smilecon.802e4e1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b3368fa.js",
+    "static/js/2.4f81eb2f.chunk.js",
+    "static/css/main.5e87be89.chunk.css",
+    "static/js/main.9fc9400a.chunk.js"
+  ]
+}
